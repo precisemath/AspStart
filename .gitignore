@@ -437,3 +437,7 @@ $RECYCLE.BIN/
 #Paket dependency manager
 .paket/
 paket-files/
+
+#global.json
+#Dont see any need for this for now
+global.json
